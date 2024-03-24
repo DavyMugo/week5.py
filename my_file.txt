@@ -1,0 +1,6 @@
+Hello, this is line 1.
+12345
+This is line 3 with a mix of strings and numbers.
+Appending line 4.
+56789
+This is the fifth line being appended.
